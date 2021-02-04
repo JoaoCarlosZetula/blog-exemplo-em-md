@@ -28,5 +28,6 @@ module.exports = {
                 shortname: `sitecoruja`
             }
         },
+        'gatsby-plugin-netlify-cms'
     ]
 }
